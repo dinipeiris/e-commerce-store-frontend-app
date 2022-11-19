@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "Amantic";
+    src: url("fonts/AmaticSC-Bold.ttf");
+}
+
+.main-body{
+    background-image: linear-gradient(to right, #9BDEFC, #CBEBF9, #CBEBF9, #9BDEFC);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    background-image: url("resources/NEWTECH_Logo_FullColour-1.png");
+    height: 500px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo1{
+    background-image: url("resources/NEWTECH_Logo_cropped.png");
+    height: 300px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title1{
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+.title2{
+    font-family: "Amantic";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.new{
+    display: flex;
+    flex-direction: column;
+}
+
+.new2{
+    display: flex;
+    flex-direction: row;
+}
+
+.poster-img-1{
+    background-repeat: no-repeat;
+}
+
+.proimage{
+    height: 45vh;
+}
+
+.bg{
+    background-color: #9BDEFC;
+}
+
+.img1{
+    height: 6vh;
+    width: auto;
+}
+
+.text1{
+    font-size: 20px;
+}
+
+.text2{
+    font-size: 20px;
+}
+
+.warranty{
+    height: 15vh;
+    width: auto;
+}
+
+.col1{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: gray;
+}
+
+.col2{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-color:#abbfd0 ;
+}
+
+.master{
+    height: 10vh;
+    width: auto;
+}
+
+.tab-img{
+    height: 10vh;
+    width: auto;
+}
