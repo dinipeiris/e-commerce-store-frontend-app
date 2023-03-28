@@ -79,7 +79,7 @@
                         </div>
 
                         <div class="col-12 col-md-6 col-lg-4 text-center pb-3">
-                            <div class="card text-white bg-orange pt-3">
+                            <div class="card pt-3">
                                 <div class="card-body">
                                     <h3 class="card-title p-1">Ongoing Promotions</h3>
                                     <h6 class="card-subtitle p-1">2022.10.30 to 2022.11.05</h6>
